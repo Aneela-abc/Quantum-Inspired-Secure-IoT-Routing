@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚛️ Quantum-Enhanced Secure Cluster-Based Routing & Optimization Framework for Heterogeneous IoT Networks
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
@@ -130,3 +131,6 @@ secure-iot-routing/
 ├── main.py                           # CLI Benchmark, 10-Graph Generator & Patent Compiler
 └── requirements.txt
 ```
+=======
+# Quantum-Inspired-Secure-IoT-Routing
+>>>>>>> ef2ab4c45a9c0f3cf800f1208e9bef9cb9efc35f
